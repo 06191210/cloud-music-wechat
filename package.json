@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4",
+    "NeteaseCloudMusicApi": "^4.8.2",
+    "pubsub-js": "^1.9.4"
+  },
+  "name": "cloud_music",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
